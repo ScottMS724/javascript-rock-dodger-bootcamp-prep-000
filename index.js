@@ -80,7 +80,7 @@ function moveDodger(e) {
     e.preventDefault();
     e.stopPropagration();
   }
-  if (e.which === RIGHT_ARROW) {
+  else if (e.which === RIGHT_ARROW) {
     moveDodgerRight();
     e.preventDefault();
     e.stopPropagation();
