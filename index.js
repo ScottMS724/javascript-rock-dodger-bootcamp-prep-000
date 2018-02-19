@@ -97,8 +97,8 @@ function moveDodgerLeft() {
 
 function moveDodgerRight() {
   window.addEventListener(function() {
-    const right = positionToInteger(DODGER.style.left);
-    if (right > 0) {
+    const left = positionToInteger(DODGER.style.left);
+    if (left > 0) {
       DODGER.style.right = `${right+4}px`;
     }
   })}
