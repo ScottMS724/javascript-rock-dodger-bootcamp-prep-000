@@ -88,7 +88,7 @@ function moveDodger(e) {
 function moveDodgerLeft() {
   window.addEventListener('keydown', function(e) {
     if (e.which === 37) {
-      
+      var leftNumbers
     }
   }
   
