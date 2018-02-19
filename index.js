@@ -75,6 +75,7 @@ function endGame() {
 }
 
 function moveDodger(e) {
+  
   // implement me!
   /**
    * This function should call `moveDodgerLeft()`
