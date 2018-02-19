@@ -86,7 +86,7 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
-  
+  window.
   // implement me!
   /**
    * This function should move DODGER to the left
