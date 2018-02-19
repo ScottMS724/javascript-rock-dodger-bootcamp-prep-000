@@ -87,7 +87,9 @@ function moveDodger(e) {
 
 function moveDodgerLeft() {
   window.addEventListener('keydown', function(e) {
-    if (e.which === )
+    if (e.which === 37) {
+      
+    }
   }
   
   // implement me!
