@@ -93,16 +93,7 @@ function moveDodgerLeft() {
     if (left > 0) {
       DODGER.style.left = `${left-4}px`;
     }
-  }
-    }
-  });
-  
-  // implement me!
-  /**
-   * This function should move DODGER to the left
-   * (mabye 4 pixels?). Use window.requestAnimationFrame()!
-   */
-}
+  })}
 
 function moveDodgerRight() {
   // implement me!
