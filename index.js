@@ -88,7 +88,7 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
-  window.addEventListener
+  window.addEventListener(function)
     }
   });
   
