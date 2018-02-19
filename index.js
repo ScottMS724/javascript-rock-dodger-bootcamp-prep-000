@@ -89,7 +89,8 @@ function moveDodger(e) {
 
 function moveDodgerLeft() {
   window.addEventListener(function() {
-    const top = dodger.style.top
+    const top = positionToInteger(dodger.style.top);
+    if (top > 0)
   }
     }
   });
